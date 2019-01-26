@@ -24,6 +24,9 @@
   <ItemGroup>
     <Compile Include="GitPython.py" />
   </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="{cd794ff4-6cb2-4a76-b24c-f3a17d5d9a64}\2.7" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
