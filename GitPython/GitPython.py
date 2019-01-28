@@ -9,4 +9,4 @@ my_list = ["jake", "Tom", "xi li"]
 for letter in 'inty':
     print("each letter is: " + letter)
 
-    # 註解
+    # 版本控制
