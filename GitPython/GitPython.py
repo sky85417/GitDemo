@@ -2,9 +2,10 @@ my_list = ["jake", "Tom", "xi li"]
 
 
 
-for letter in 'inty':
+for letter in 'member01':
     print("each letter is: " + letter)
 
-    #test123
+for letter in 'member02':
+    print("each letter is: " + letter)
 
 
